@@ -1,0 +1,26 @@
+.CategoryImage {
+    width: 250px;
+    height: 250px;
+    opacity: 1;
+}
+
+.ImageContainer:hover .CategoryImage {
+    opacity: 0.3;
+}
+  
+.ImageContainer:hover .Middle {
+    opacity: 1;
+}
+
+.Middle {
+    opacity: 0;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    text-align: center;
+}
+
+.Playicon {
+    color: white;
+    font-size: 30px;
+}

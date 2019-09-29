@@ -1,0 +1,28 @@
+.ImageContainer:hover .PlaylistImage {
+    opacity: 0.3;
+}
+  
+.ImageContainer:hover .Middle {
+    opacity: 1;
+}
+
+.Middle {
+    opacity: 0;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    text-align: center;
+}
+
+.PlaylistImage {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    opacity: 1;
+
+}
+
+.Playicon {
+    color: white;
+    font-size: 30px;
+}

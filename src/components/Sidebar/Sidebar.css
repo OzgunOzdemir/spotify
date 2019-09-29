@@ -1,0 +1,56 @@
+img {
+    width: 175px;
+    height: 50px;
+}
+
+.Sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 250px;
+    background-color: #000000;
+    padding-top: 20px;
+    text-align: center;
+    z-index: 1;
+}
+
+.Navtext,
+.Navicon {
+    color: #b3b3b3;
+    font-size: 17px;
+    text-decoration: none;
+}
+
+.Navtext:hover,
+.Navicon:hover {
+    color: #fff;
+    font-size: 17px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.NavItem {
+    margin-top: 20px;
+}
+
+nav {
+    margin-top: 50px;
+    padding-left:50px;
+    text-align: left;
+}
+
+.UserItem {
+   margin-top: 50px;
+}
+
+.UserItemText {
+    color: #fff;
+    font-size: 20px;
+}
+
+@media (max-width: 500px) {
+    .Sidebar {
+        display: none;
+    }
+}

@@ -1,0 +1,24 @@
+.Center {
+    margin: 0 auto
+}
+
+.HeaderRight {
+    padding-right: 50px;
+}
+
+.Topbar {
+    height: 56px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #282828;
+    padding-top: 10px;
+    text-align: right;
+    z-index: 1;
+}
+
+.Right {
+    float: right;
+}
+
