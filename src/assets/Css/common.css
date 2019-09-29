@@ -1,0 +1,117 @@
+.center {
+    text-align: center;
+}
+
+.colorWhite {
+    color: #ffff;
+}
+
+.colorGreen {
+    color: #1db954;
+}
+
+
+.fs20 {
+    font-size: 20px;
+}
+
+.left {
+    text-align: left;
+}
+
+.mt30{
+    margin-top: 30px;
+}
+
+.mb50 {
+    margin-top: 50px;
+}
+
+.mb20 {
+    margin-top: 20px;
+}
+
+.PageContainer {
+    margin-top: 56px;
+    padding-bottom: 100px;
+}
+
+.PageContent {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.PageTitle {
+    padding: 24px 0px;
+}
+
+.PageTitleText {
+    font-size: 36px;
+    line-height: 44px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: none;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.right {
+    text-align: right;
+}
+
+.SongPlaylist{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.SongList {
+    margin-top: 25px;
+    padding: 10px 10px;
+}
+
+.SongList:hover {
+    background-color: #00000036;
+}
+
+.SongIcon {
+    color: #fff;
+    font-size: 16px;
+}
+
+.SongName {
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    color: #fff
+}
+
+.CurrentSong {
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 1px;
+    color: #1db954;
+}
+
+.SongBottomName {
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: #ffffffc4;
+}
+
+.SongsContainer {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+}
+
+.SongImageContainer {
+    margin-bottom: 20px;
+}
+
+.SongImage {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
